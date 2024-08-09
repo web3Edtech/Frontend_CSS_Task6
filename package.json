@@ -1,7 +1,7 @@
 {
-  "name": "css-box-model",
+  "name": "flexbox-layout-task",
   "version": "1.0.0",
-  "description": "A task to understand and practice the CSS Box Model, margins, and padding.",
+  "description": "A task to create a responsive layout using CSS Flexbox for a profile page.",
   "main": "index.html",
   "scripts": {
     "start": "open index.html"
