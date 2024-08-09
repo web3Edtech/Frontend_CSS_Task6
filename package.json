@@ -1,0 +1,11 @@
+{
+  "name": "css-box-model",
+  "version": "1.0.0",
+  "description": "A task to understand and practice the CSS Box Model, margins, and padding.",
+  "main": "index.html",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "author": "NFThing",
+  "license": "ISC"
+}
