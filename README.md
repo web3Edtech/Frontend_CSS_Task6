@@ -1,2 +1,2 @@
-# Frontend_CSS_Task2
-Mastering CSS Box Model, Margins, and Padding
+# Frontend_CSS_Task6
+Mastering Flexbox for a Responsive Profile Page Layout
